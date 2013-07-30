@@ -48,7 +48,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{14E60852-234
 		Web\README.md = Web\README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse", "..\ReverseAString\Reverse.csproj", "{C3DC0373-C2F1-4612-A15D-A14F220BBF96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomString", "..\ReverseAString\CustomString.csproj", "{C3DC0373-C2F1-4612-A15D-A14F220BBF96}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{B205950A-C39C-4808-BD3D-A86E095F0851}"
 EndProject

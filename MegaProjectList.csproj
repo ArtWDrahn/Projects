@@ -48,9 +48,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ReverseAString\Reverse.csproj">
+    <ProjectReference Include="..\ReverseAString\CustomString.csproj">
       <Project>{c3dc0373-c2f1-4612-a15d-a14f220bbf96}</Project>
-      <Name>Reverse</Name>
+      <Name>CustomString</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
