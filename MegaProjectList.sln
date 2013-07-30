@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaProjectList", "MegaProjectList.csproj", "{9A0C566B-AF03-497E-8900-18699D13E2B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classess", "Classess", "{9732B098-E058-4028-B00B-8EA194C92896}"
+	ProjectSection(SolutionItems) = preProject
+		Classes\README.md = Classes\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases", "Databases", "{936AD813-BEFB-499E-BB99-07C73E3F5450}"
+	ProjectSection(SolutionItems) = preProject
+		Databases\README.md = Databases\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{F859122C-2F1C-4A15-B09F-237230EFD391}"
+	ProjectSection(SolutionItems) = preProject
+		Files\README.md = Files\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Graphics and Multimedia", "Graphics and Multimedia", "{B076B8D7-3D92-4513-8EB9-587C01134E4F}"
+	ProjectSection(SolutionItems) = preProject
+		Graphics and Multimedia\README.md = Graphics and Multimedia\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Networking", "Networking", "{85FE129B-6A80-4CD2-9F80-D2A46A85CD8D}"
+	ProjectSection(SolutionItems) = preProject
+		Networking\README.md = Networking\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Numbers", "Numbers", "{79EB2093-2064-4B67-B936-E9ADFF3ED72B}"
+	ProjectSection(SolutionItems) = preProject
+		Numbers\README.md = Numbers\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Text", "Text", "{0BFB6530-B570-4FA3-B21E-4884DB2F7101}"
+	ProjectSection(SolutionItems) = preProject
+		Text\README.md = Text\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Threading", "Threading", "{9FB6B8CE-3421-4F7E-B05A-A2E7D423E690}"
+	ProjectSection(SolutionItems) = preProject
+		Threading\README.md = Threading\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{14E60852-234B-40D7-B702-AA2676498DFA}"
+	ProjectSection(SolutionItems) = preProject
+		Web\README.md = Web\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse", "..\ReverseAString\Reverse.csproj", "{C3DC0373-C2F1-4612-A15D-A14F220BBF96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{B205950A-C39C-4808-BD3D-A86E095F0851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringUnitTests", "StringUnitTests\StringUnitTests.csproj", "{97283853-364D-4BAF-9D23-9A45CEBDEAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A0C566B-AF03-497E-8900-18699D13E2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0C566B-AF03-497E-8900-18699D13E2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0C566B-AF03-497E-8900-18699D13E2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0C566B-AF03-497E-8900-18699D13E2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3DC0373-C2F1-4612-A15D-A14F220BBF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DC0373-C2F1-4612-A15D-A14F220BBF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DC0373-C2F1-4612-A15D-A14F220BBF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DC0373-C2F1-4612-A15D-A14F220BBF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97283853-364D-4BAF-9D23-9A45CEBDEAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97283853-364D-4BAF-9D23-9A45CEBDEAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97283853-364D-4BAF-9D23-9A45CEBDEAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97283853-364D-4BAF-9D23-9A45CEBDEAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C3DC0373-C2F1-4612-A15D-A14F220BBF96} = {0BFB6530-B570-4FA3-B21E-4884DB2F7101}
+		{B205950A-C39C-4808-BD3D-A86E095F0851} = {0BFB6530-B570-4FA3-B21E-4884DB2F7101}
+		{97283853-364D-4BAF-9D23-9A45CEBDEAAD} = {B205950A-C39C-4808-BD3D-A86E095F0851}
+	EndGlobalSection
+EndGlobal

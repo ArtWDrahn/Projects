@@ -1,0 +1,7 @@
+D:\Dropbox\GitHub\Projects\StringUnitTests\bin\Debug\StringUnitTests.dll
+D:\Dropbox\GitHub\Projects\StringUnitTests\bin\Debug\StringUnitTests.pdb
+D:\Dropbox\GitHub\Projects\StringUnitTests\bin\Debug\ReverseAString.dll
+D:\Dropbox\GitHub\Projects\StringUnitTests\bin\Debug\ReverseAString.pdb
+D:\Dropbox\GitHub\Projects\StringUnitTests\obj\Debug\StringUnitTests.csprojResolveAssemblyReference.cache
+D:\Dropbox\GitHub\Projects\StringUnitTests\obj\Debug\StringUnitTests.dll
+D:\Dropbox\GitHub\Projects\StringUnitTests\obj\Debug\StringUnitTests.pdb
